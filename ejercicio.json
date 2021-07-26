@@ -1,0 +1,101 @@
+[
+    {
+        "apellido":"Lucas Mero",
+        "nombre":"Leixer Steeven",
+        "semestre":"Sexto Semestre",
+        "paralelo": "A",
+        "direccion":"Calle QUITO",
+        "telefono":"098905222",
+        "correo":"lucas@gmail.com"
+    },
+
+    {
+        "apellido01":"Campuzano Espinalez",
+        "nombre01":"Jose Luis",
+        "semestre01":"Quinto Semestre",
+        "paralelo01": "A",
+        "direccion01":"10 de Enero",
+        "telefono01":"098816451",
+        "correo01":"campuzano@gmail.com"
+    },
+
+    {
+        "apellido02":"Lopez Quijije",
+        "nombre02":"Kelvin Manuel",
+        "semestre02":"Cuarto Semestre",
+        "paralelo02": "C",
+        "direccion02":"Montecristi",
+        "telefono02":"098816448",
+        "correo02":"lopez@gmail.com"
+    },
+
+    {
+        "apellido03":"Reina Holguin",
+        "nombre03":"Gema Nicole",
+        "semestre03":"Sexto Semestre",
+        "paralelo03":"B",
+        "direccion03":"Manta",
+        "telefono03":"0989052212",
+        "correo03":"reina@gmail.com"
+    },
+
+    {
+        "apellido04":"Villalba Valencia",
+        "nombre04":"Erick Joao",
+        "semestre04":"Quinto Semestre",
+        "paralelo04":"A",
+        "direccion04":"Guayaquil",
+        "telefono04":"098816847",
+        "correo04":"villalba@gmail.com"
+    },
+
+    {
+        "apellido05":"Quiñonez Marin",
+        "nombre05":"Galo Xavier",
+        "semestre05":"Quinto Semestre",
+        "paralelo05":"B",
+        "direccion05":"Manabi",
+        "telefono05":"0988147581",
+        "correo05":"quiñonez@gmail.com"
+    },
+
+    {
+        "apellido06":"Burgos Hurtado",
+        "nombre06":"Roger Kent",
+        "semestre06":"Cuarto Semestre",
+        "paralelo06":"D",
+        "direccion06":"Calle 13",
+        "telefono06":"0988145178",
+        "correo06":"Burgos@gmail.com"
+    },
+
+    {
+        "apellido07":"Baque Delgado",
+        "nombre07":"Juleydy Mayelina",
+        "semestre07":"Quinto Semestre",
+        "paralelo07":"A",
+        "direccion07":"10 de Enero",
+        "telefono07":"0988164123",
+        "correo07":"Baque@gmail.com"
+    },
+
+    {
+        "apellido08":"Menendez Mendoza",
+        "nombre08":"Luis Armando",
+        "semestre08":"Cuarto Semestre",
+        "paralelo08":"B",
+        "direccion08":"20 de Enero",
+        "telefono08":"097816451",
+        "correo08":"Menendez@gmail.com"
+    },
+
+    {
+        "apellido08":"Mero Anton",
+        "nombre08":"Michael Elvis",
+        "semestre08":"Quinto Semestre",
+        "paralelo08":"A",
+        "direccion08":"10 de Agosto",
+        "telefono08":"0988123456",
+        "correo08":"Mero@gmail.com"
+    }
+]
